@@ -16,6 +16,7 @@ public class Movie {
     private String director;
     private int releaseYear;
 
+
     public int getReleaseYear() {
         return releaseYear;
     }
